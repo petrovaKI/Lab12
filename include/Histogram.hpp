@@ -1,6 +1,6 @@
 // Copyright 2022 Petrova Kseniya <petrovaKI>
-#ifndef INCLUDE_HISTOGRAM_HPP
-#define INCLUDE_HISTOGRAM_HPP
+#ifndef INCLUDE_HISTOGRAM_HPP_
+#define INCLUDE_HISTOGRAM_HPP_
 
 class Histogram{
  public:
@@ -24,4 +24,4 @@ class Histogram{
   float avg = 0;
 };
 
-#endif  // INCLUDE_HISTOGRAM_HPP
+#endif  // INCLUDE_HISTOGRAM_HPP_

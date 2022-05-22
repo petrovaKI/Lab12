@@ -1,6 +1,6 @@
 // Copyright 2022 Petrova Kseniya <petrovaKI>
-#ifndef INCLUDE_USEDMEMORY_HPP
-#define INCLUDE_USEDMEMORY_HPP
+#ifndef INCLUDE_USEDMEMORY_HPP_
+#define INCLUDE_USEDMEMORY_HPP_
 
 #include <string>
 #include <vector>
@@ -22,4 +22,4 @@ class UsedMemory {
   size_t used_ = 0;
 };
 
-#endif  // INCLUDE_USEDMEMORY_HPP
+#endif  // INCLUDE_USEDMEMORY_HPP_

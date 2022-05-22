@@ -1,6 +1,6 @@
 // Copyright 2022 Petrova Kseniya <petrovaKI>
-#ifndef INCLUDE_STATSENDER_HPP
-#define INCLUDE_STATSENDER_HPP
+#ifndef INCLUDE_STATSENDER_HPP_
+#define INCLUDE_STATSENDER_HPP_
 
 #include <fstream>
 #include <string_view>
@@ -23,4 +23,4 @@ class Statistic {
   std::ofstream fstr{"network", std::ios::binary};
 };
 
-#endif  // INCLUDE_STATSENDER_HPP
+#endif  // INCLUDE_STATSENDER_HPP_
