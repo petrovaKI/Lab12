@@ -1,6 +1,6 @@
 // Copyright 2022 Petrova Kseniya <petrovaKI>
-#ifndef INCLUDE_PADECONTAINER_HPP_
-#define INCLUDE_PADECONTAINER_HPP_
+#ifndef INCLUDE_PAGECONTAINER_HPP_
+#define INCLUDE_PAGECONTAINER_HPP_
 
 #include <algorithm>
 #include <set>
@@ -47,4 +47,4 @@ class PageContainer {
   std::vector<std::string> raw_data_;
 };
 
-#endif  // INCLUDE_PADECONTAINER_HPP_
+#endif  // INCLUDE_PAGECONTAINER_HPP_
